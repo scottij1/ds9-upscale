@@ -1,0 +1,14 @@
+# Video files - don't commit these
+*.mkv
+*.mp4
+*.avi
+*.vob
+*.iso
+
+# Lossless intermediates
+*.ffv1
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
