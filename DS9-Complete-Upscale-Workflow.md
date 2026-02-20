@@ -39,7 +39,7 @@ STAGE 4: Final encode (optional) + copy to Plex
 |----------|---------|----------|
 | **ffmpeg** | Pre-processing (Option A) or final encode | https://www.gyan.dev/ffmpeg/builds/ |
 | **StaxRip** | Pre-processing (Option B) — bundles AviSynth+, QTGMC, TIVTC | https://github.com/staxrip/staxrip/releases |
-| **Topaz Video AI** | AI upscaling | Already installed |
+| **Topaz Video AI** | AI upscaling | https://www.topazlabs.com/topaz-video |
 | **MKVToolNix** | Muxing video + audio + subs | https://mkvtoolnix.download/downloads.html |
 
 ---
