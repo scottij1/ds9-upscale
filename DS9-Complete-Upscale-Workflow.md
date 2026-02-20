@@ -249,12 +249,12 @@ In the **Controls Sidebar** on the right:
 
 ### Other Filter Toggles (all OFF)
 
-- ❌ Frame Interpolation — OFF
-- ❌ SDR to HDR — OFF
-- ❌ Stabilization — OFF
-- ❌ Motion Deblur — OFF
-- ❌ Denoise — OFF
-- ❌ Grain — OFF (using Add Noise inside Enhancement instead)
+- Frame Interpolation — OFF
+- SDR to HDR — OFF
+- Stabilization — OFF
+- Motion Deblur — OFF
+- Denoise — OFF
+- Grain — OFF (using Add Noise inside Enhancement instead)
 
 ### Preview
 
